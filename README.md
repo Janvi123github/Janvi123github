@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm J@nvi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 🌱 I’m currently learning **React**
 
@@ -13,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://janvihatwarportfolio.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://janvihatwarportfolio.netlify.app/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/janvi_hatwar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/janvi_hatwar/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/janvihatwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janvihatwar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/janvi_hatwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="janvi_hatwar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
